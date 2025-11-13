@@ -1,4 +1,3 @@
-<%@ Page Language="C#" MasterPageFile="~masterurl/default.master" Inherits="Microsoft.SharePoint.WebPartPages.WebPartPage" %>
 
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
 
